@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**juanrex04/juanrex04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Juan Restrepo un **FRONTEND DEVELOPER**, He adquierido gran parte de mis habilidades de manera autodidacta, gracias a videos de YouTube o cursos, por ende tengo conocimiento en diseño responsive y algo de diseño para hacer sitios web increíbles.
 
-Here are some ideas to get you started:
+○ Tecnologías que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - VueJS / JavaScript
+  - HTML
+  - CSS/SCSS
+  - Bootstrap
+  - Express
+  - MongoDB
+
+Uso VS Code como editor de texto para la creación de mis proyectos y Trello como mi de flujo de actividades
+
+### Portafolio 🤖
+[Juan Restrepo' portfolio](https://juanrex04.github.io)
+
+![juanrex04's github stats](https://github-readme-stats.vercel.app/api?username=juanrex04&show_icons=true&title-color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
