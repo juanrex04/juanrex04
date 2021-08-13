@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hola, soy Juan Restrepo un **FRONTEND DEVELOPER**, He adquierido gran parte de mis habilidades de manera autodidacta, gracias a videos de YouTube o cursos, por ende tengo conocimiento en diseño responsive y algo de diseño para hacer sitios web increíbles.
+Hola, soy Juan Restrepo un **FRONTEND DEVELOPER**, He adquirido gran parte de mis habilidades de manera autodidacta, gracias a videos de YouTube o cursos, por ende tengo conocimiento en diseño responsive y algo de diseño para hacer sitios web increíbles.
 
 ○ Tecnologías que manejo
 
@@ -11,7 +11,7 @@ Hola, soy Juan Restrepo un **FRONTEND DEVELOPER**, He adquierido gran parte de m
   - Express
   - MongoDB
 
-Uso VS Code como editor de texto para la creación de mis proyectos y Trello como mi de flujo de actividades
+Uso VS Code como editor de código para la creación de mis proyectos y Trello como para mi flujo de actividades
 
 ### Portafolio 🤖
 [Juan Restrepo' portfolio](https://juanrex04.github.io)
