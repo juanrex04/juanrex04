@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Hola, soy Juan Restrepo un **FRONTEND DEVELOPER** y **PROFESOR DE INFORMÁTICA DEL IB**, he adquirido gran parte de mis habilidades de manera autodidacta, me encanta el tema de la docencia y llevar a mis estudiantes a la mejor versión de ellos en el uso de las tecnologías y temas relacionados a la programación. Alto manejo del nivel inglés para conversaciones y estudio además de usarlo para enseñar en mis clases.
+Hola, soy Juan Restrepo un **DESARROLLADOR JUNIOR** y **PROFESOR DE INFORMÁTICA**, he adquirido gran parte de mis habilidades de manera autodidacta, me encanta el tema de la docencia y llevar a mis estudiantes a la mejor versión de ellos en el uso de las tecnologías y temas relacionados a la programación. Alto manejo del nivel inglés para conversaciones y estudio además de usarlo para enseñar en mis clases.
 
 ○ Tecnologías que manejo
 
   - VueJS / JavaScript
   - SQL
   - Firebase (Aprendiendo...)
-  - Python (En proceso de aprendizaje y enseñandolo a estudiantes)
+  - Python (Básico y enseñandolo a estudiantes)
   - JAVA SE
 
 ### Portafolio 🤖
