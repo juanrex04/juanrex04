@@ -12,5 +12,3 @@ Hola, soy Juan Restrepo un **DESARROLLADOR JUNIOR** y **PROFESOR DE INFORMÁTICA
 
 ### Portafolio 🤖
 [Juan Restrepo' portfolio](https://juanrex04.github.io)
-
-![juanrex04's github stats](https://github-readme-stats.vercel.app/api?username=juanrex04&show_icons=true&title-color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
